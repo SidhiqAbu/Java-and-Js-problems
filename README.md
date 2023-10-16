@@ -15,8 +15,8 @@ Example - This is a sunny day > shiT si a ynnus yad.
 2. Perform sorting of an array in descending order.
 
 
-   HTML Projects
+HTML Projects
 
-   1.Calculator project link :
+   1.Calculator project link :     https://github.com/SidhiqAbu/Calculator
 
-   2.SurveyForm Link : 
+   2.SurveyForm Link :     https://github.com/SidhiqAbu/SurveyForm
